@@ -1,0 +1,5 @@
+{
+  "name": "triple",
+  "id": "panda-theme-triple",
+  "css": " [data-panda-theme=triple] {\n    --colors-primary: var(--colors-triple-blue)\n}"
+}

@@ -1,0 +1,15 @@
+{
+  "name": "@drakang4/preset",
+  "version": "0.0.0",
+  "main": "src/index.ts",
+  "types": "src/index.d.ts",
+  "scripts": {
+    "codegen": "panda codegen",
+    "cssgen": "panda cssgen",
+    "dev": "pnpm run codegen --watch"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "@pandacss/dev": "^0.48.0"
+  }
+}

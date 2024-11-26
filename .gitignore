@@ -1,0 +1,14 @@
+# Logs
+logs
+*.log
+.pnpm-debug.log*
+
+# Dependency directories
+node_modules/
+
+# General
+.DS_Store
+
+## Panda
+styled-system
+!packages/styled-system

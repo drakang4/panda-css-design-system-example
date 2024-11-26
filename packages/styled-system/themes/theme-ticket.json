@@ -1,0 +1,5 @@
+{
+  "name": "ticket",
+  "id": "panda-theme-ticket",
+  "css": " [data-panda-theme=ticket] {\n    --colors-primary: var(--colors-primitive-purple)\n}"
+}

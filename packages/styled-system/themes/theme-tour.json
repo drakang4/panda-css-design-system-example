@@ -1,0 +1,5 @@
+{
+  "name": "tour",
+  "id": "panda-theme-tour",
+  "css": " [data-panda-theme=tour] {\n    --colors-primary: var(--colors-primitive-blue)\n}"
+}
